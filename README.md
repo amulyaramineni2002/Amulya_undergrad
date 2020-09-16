@@ -1,4 +1,4 @@
-# Amulya_undergrad
+# Hello!!! Good to have you here.
 Amulya's undergrad educational repositories
 
 About myself
